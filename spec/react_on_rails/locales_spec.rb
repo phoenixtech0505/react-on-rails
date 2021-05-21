@@ -2,7 +2,7 @@
 
 require_relative "spec_helper"
 
-// Module
+# Module
 module ReactOnRails
   RSpec.describe Locales do
     describe ".compile" do
